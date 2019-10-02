@@ -1,0 +1,4 @@
+﻿  Elevator.cpp
+C:\Users\Resizt\Documents\Git\Projects\C++\Elevator\Elevator\Elevator.cpp(31,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Resizt\Documents\Git\Projects\C++\Elevator\Elevator\Elevator.cpp(38,22): warning C4101: 'realnum': unreferenced local variable
+C:\Users\Resizt\Documents\Git\Projects\C++\Elevator\Elevator\Elevator.cpp(46): error C4716: 'elevator': must return a value
